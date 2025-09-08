@@ -24,3 +24,9 @@ Spaces can have sub-spaces by declaring _part-of_-relations among them.
 Sub-spaces of time-limited spaces must be time-limited too.
 
 For example, groups can have internal projects as they sub-spaces, communities can have initiatives, or events can have sub-events.
+
+## Member roles
+
+The most important parts of a Space are its members.
+Members can have different roles, depeding on the type of Space, for example _speaker_ for an event or _editor-in-chief_ for an outlet.
+All Spaces have the role of _owners_, which are the members that have the right to decide on the core features of the Space, such as its description and member admittance policy.
