@@ -16,7 +16,11 @@ Spaces can be subdivided into whether they are open-ended or time-limited, and w
 
 This categorization is still work-in-progress, and is not meant to be exhaustive.
 
+All of these types can be formal (legal) or informal entities. Groups, for example, can be research groups at universities or informally formed groups like a reading club.
+
 ## Sub-spaces
 
 Spaces can have sub-spaces by declaring _part-of_-relations among them.
 Sub-spaces of time-limited spaces must be time-limited too.
+
+For example, groups can have internal projects as they sub-spaces, communities can have initiatives, or events can have sub-events.
