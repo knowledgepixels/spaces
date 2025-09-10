@@ -8,7 +8,7 @@ Academic activities are the main motivation, but Spaces generalize to all kinds 
 
 Spaces can be subdivided into whether they are open-ended or time-limited, and with respect to what kind of focus activity they have:
 
-|| long/unlimited | short/limited |
+|| open-ended | time-limited |
 | ------------- | ------------- | ------------- |
 | focus on getting work done: | Groups | Projects |
 | focus on coordination: | Programs | Initiatives |
