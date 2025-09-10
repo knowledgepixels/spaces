@@ -11,7 +11,8 @@ Spaces can be subdivided into whether they are open-ended or time-limited, and w
 || open-ended | time-limited |
 | ------------- | ------------- | ------------- |
 | focus on getting work done: | Groups | Projects |
-| focus on outreach: | Outlets | Initiatives |
+| focus on coordination: | Board | Initiatives |
+| focus on outreach: | Outlets | Campaign |
 | focus on exchange: | Communities | Events |
 
 This categorization is still work-in-progress, and is not meant to be exhaustive.
