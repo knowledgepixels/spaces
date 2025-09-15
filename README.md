@@ -30,4 +30,4 @@ For example, groups can have internal projects as they sub-spaces, communities c
 
 The most important parts of a Space are its members.
 Members can have different roles, depeding on the type of Space, for example _speaker_ for an event or _editor-in-chief_ for an outlet.
-All Spaces have the role of _owners_, which are the members that have the right to decide on the core features of the Space, such as its description and member admittance policy.
+All Spaces have the role of _admins_, which are the members that have the right to decide on the core features of the Space, such as its description and member admittance policy.
