@@ -10,8 +10,9 @@ Spaces can be subdivided into whether they are open-ended or time-limited, and w
 
 || open-ended | time-limited |
 | ------------- | ------------- | ------------- |
+| focus on bringing units together: | Alliance | Consortium |
 | focus on formal vessel: | Organization | Taskforce |
-| focus on grouping sub-units: | Department | Consortium |
+| focus on structuring into sub-units: | Division | Detail |
 | focus on getting work done: | Group | Project |
 | focus on coordination: | Program | Initiative |
 | focus on outreach: | Outlet | Campaign |
