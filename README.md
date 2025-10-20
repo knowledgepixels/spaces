@@ -32,13 +32,11 @@ For example, groups can have internal projects as they sub-spaces, communities c
 The most important parts of a Space are its members.
 Members can have different roles, depeding on the type of Space, for example _speaker_ for an event or _editor-in-chief_ for an outlet.
 
-All Spaces have the predefined roles of _admins_, _maintainers_, and _members_:
+All Spaces have the predefined roles of _admins_, _maintainers_, and _members_, with edit privileges on these levels:
 
-|| edit core | edit structure | edit content | make suggestion |
+|| core | structure | content | suggestions |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| admin | yes | yes | yes | yes |
-| maintainer | | yes | yes | yes |
-| member | | | yes | yes |
-| _anyone_ | | | | yes |
-
-All Spaces have the role of _admins_, which are the members that have the right to decide on the core features of the Space, such as its description and member admittance policy.
+| admin | ✓ | ✓ | ✓ | ✓ |
+| maintainer | | ✓ | ✓ | ✓ |
+| member | | | ✓ | ✓ |
+| _anyone_ | | | | ✓ |
