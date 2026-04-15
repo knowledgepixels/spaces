@@ -25,18 +25,22 @@ This categorization is still work-in-progress, and is not meant to be exhaustive
 Spaces can have sub-spaces by declaring _part-of_-relations among them.
 Sub-spaces of time-limited spaces must be time-limited too.
 
-For example, groups can have internal projects as they sub-spaces, communities can have initiatives, or events can have sub-events.
+For example, groups can have internal projects as their sub-spaces, communities can have initiatives, or events can have sub-events.
 
 ## Member roles
 
-The most important parts of a Space are its members.
-Members can have different roles, depeding on the type of Space, for example _speaker_ for an event or _editor-in-chief_ for an outlet.
+The most important parts of a Space are the associated users.
+Such users can have different roles, depeding on the type of Space, for example _speaker_ for an event or _editor-in-chief_ for an outlet.
 
-All Spaces have the predefined roles of _admins_, _maintainers_, and _members_, with edit privileges on these levels:
+All Spaces have the predefined role types of _admins_, _maintainers_, _members_, and _observers_ with edit privileges on these levels:
 
-|| core | structure | content | suggestions |
+|| core | structure | content | comment |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | admin | ✓ | ✓ | ✓ | ✓ |
 | maintainer | | ✓ | ✓ | ✓ |
 | member | | | ✓ | ✓ |
+| observer | | | ✓ | ✓ |
 | _anyone_ | | | | ✓ |
+
+The difference between _member_ and _observer_ is that roles of the latter type can be self-assigned.
+The role types _admin_, _maintainer_, and _member_ can only be assigned by somebody who already is assigned at that level or higher.
