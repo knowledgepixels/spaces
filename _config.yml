@@ -12,6 +12,6 @@ remote_theme: knowledgepixels/pages-theme
 plugins:
 - jekyll-remote-theme
 title: "global representations for all kinds of collaborative units"
-logo: logo.svg
+logo: logo.png
 description: ""
 footer: ""
